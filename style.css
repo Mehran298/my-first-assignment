@@ -1,0 +1,50 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    /* top: 50%;
+    left: 10%; */
+
+
+
+}
+
+p {
+    color: white;
+    text-align: center;
+    /* top: 65%;
+    left: 2%; */
+}
+
+#first_section {
+    background-image: url(images/donation6.jpg);
+    background-size: cover;
+    height: 800px;
+
+
+}
+
+.link-button {
+    text-decoration: solid;
+    background-color: red;
+    text-align: center;
+    font-weight: 400%;
+    padding: 15px;
+}
+
+.center_div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#btn {
+    width: fit-content;
+    margin-left: 40%;
+}
