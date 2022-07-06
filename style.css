@@ -48,3 +48,17 @@ p {
     width: fit-content;
     margin-left: 40%;
 }
+
+.second {
+    color: black;
+}
+
+h3 {
+    text-align: center;
+}
+
+.money {
+    color: black;
+    display: flex;
+
+}
